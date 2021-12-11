@@ -1,25 +1,6 @@
 # Kompozit-Malzemeler
 Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim dökümanlarını içermektedir. Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:
 
-1. Giriş
-2. Tarihçe
-3. Kompozit Endüstrisi
-4. Malzeme Biliminde Kompozitlerin Yeri
-5. Temel Malzeme Bilgisi
-6. Kompozitlerin Sınıflandırılması
-7. Polimerler
-8. Polimer Matrisli Kompozitler
-9. Takviye Fazı
-10. Nüve Elemanları
-11. PMK Üretim Yöntemleri
-12. Kalıp Tasarımı ve Üretimi
-13. Mekanik Analiz
-14. Hasar Mekanizmaları
-15. Uygulama Alanları
-16. Teknofest için Kompozit Üretim
-
-• Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
-• Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
 
 <br>
 
@@ -27,6 +8,27 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 ![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)
 
 <br>
+
+2. Giriş
+3. Tarihçe
+4. Kompozit Endüstrisi
+5. Malzeme Biliminde Kompozitlerin Yeri
+6. Temel Malzeme Bilgisi
+7. Kompozitlerin Sınıflandırılması
+8. Polimerler
+9. Polimer Matrisli Kompozitler
+10. Takviye Fazı
+11. Nüve Elemanları
+12. PMK Üretim Yöntemleri
+13. Kalıp Tasarımı ve Üretimi
+14. Mekanik Analiz
+15. Hasar Mekanizmaları
+16. Uygulama Alanları
+17. Teknofest için Kompozit Üretim
+
+• Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
+• Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
+
 
 • Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://www.shopier.com/ShowProductNew/storefront.php?shop=Lex3D&sid=cGtrZUpWbDZIR3ZjZGJRZDBfLTFfIF8g <br>
 
