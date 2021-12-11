@@ -1,13 +1,6 @@
 # Kompozit-Malzemeler
 Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim dökümanlarını içermektedir. Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:
 
-<br>
-
-
-![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)
-
-<br>
-
 1. Giriş
 2. Tarihçe
 3. Kompozit Endüstrisi
@@ -25,6 +18,13 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 15. Uygulama Alanları
 16. Teknofest için Kompozit Üretim
 
+
+<br>
+
+
+![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)
+
+<br>
 
 • Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
 • Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
