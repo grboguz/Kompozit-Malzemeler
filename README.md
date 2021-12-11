@@ -18,6 +18,8 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 15. Uygulama Alanları
 16. Teknofest için Kompozit Üretim
 
+![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)<br><br>
+
 Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
-Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK < br >
+Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
 ![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/Discord_QR.png)
