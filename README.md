@@ -21,7 +21,7 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 
 Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
 Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
-Kompozit Malzemeler Topluluğumuza e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://shopier.gg/E2bgRskNwK <br>
+Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://shopier.gg/E2bgRskNwK <br>
 
 <br>
 
