@@ -1,5 +1,5 @@
 # Kompozit-Malzemeler
-Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim dökümanlarını içermektedir. Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:
+Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim dökümanlarını içermektedir. 
 
 
 <br>
@@ -8,7 +8,7 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 ![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)
 
 <br>
-
+Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:
 2. Giriş
 3. Tarihçe
 4. Kompozit Endüstrisi
