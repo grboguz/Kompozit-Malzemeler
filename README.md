@@ -30,6 +30,13 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 • Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
 • Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://www.shopier.com/ShowProductNew/storefront.php?shop=Lex3D&sid=cGtrZUpWbDZIR3ZjZGJRZDBfLTFfIF8g <br>
 
+<br>
+
+
+![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/E-Kitap.JPG)
+
+<br>
+
 
 Ayrıca aşağıdaki kodu okutarak da Discord kanalımıza katılabilirsiniz:<br><br>
 ![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/Discord_QR.png)
