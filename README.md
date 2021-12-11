@@ -28,7 +28,7 @@ Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. A
 
 • Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br><br>
 • Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br><br>
-• Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://www.shopier.com/ShowProductNew/storefront.php?shop=Lex3D&sid=cGtrZUpWbDZIR3ZjZGJRZDBfLTFfIF8g <br>
+• Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://www.shopier.com/Lex3D <br>
 
 <br>
 
