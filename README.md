@@ -8,7 +8,7 @@ Bu depo, Udemy üzerinde yayınlanan "Kompozit Malzemeler" kursundaki eğitim d�
 ![alt text](https://github.com/grboguz/Kompozit-Malzemeler/blob/main/composite_material_stress.gif)
 
 <br>
-Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:<br>
+Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. Aşağıdaki sırayla bu sunumları inceleyebilirsiniz:<br><br>
 1. Giriş<br>
 2. Tarihçe<br>
 3. Kompozit Endüstrisi<br>
@@ -24,7 +24,7 @@ Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. A
 13. Mekanik Analiz<br>
 14. Hasar Mekanizmaları<br>
 15. Uygulama Alanları<br>
-16. Teknofest için Kompozit Üretim<br>
+16. Teknofest için Kompozit Üretim<br><br>
 
 • Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br>
 • Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br>
