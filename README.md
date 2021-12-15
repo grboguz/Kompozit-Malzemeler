@@ -26,7 +26,7 @@ Eğitimdeki bölümlerle ilişkili sunumlar numaranladırılarak eklenmiştir. A
 15. Uygulama Alanları<br>
 16. Teknofest için Kompozit Üretim<br><br>
 
-• Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/ <br><br>
+• Eğitim dökümanları paylaşılan kursu incelemek için buraya tıklayabilirsiniz: https://www.udemy.com/course/sfrdan-kompozit-malzemeler-kompozit-teknigine-giris/ <br><br>
 • Kompozit Malzemeler Topluluğumuza katılmak için bu bağlantıyı kullanabilirsiniz: https://discord.gg/E2bgRskNwK <br><br>
 • Kompozit Tekniği e-kitabımızı incelemek için bu bağlantıyı kullanabilirsiniz: https://www.shopier.com/Lex3D <br>
 
